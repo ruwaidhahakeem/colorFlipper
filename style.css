@@ -1,0 +1,90 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Styling for the whole navbar */
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling for the title inside the navbar */
+  .navbar h4 {
+    margin: 0;
+    padding: 0;
+  }
+  /* Styling for the whole navbar */
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling for the title inside the navbar */
+  .navbar h4 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Unordered list inside the navbar */
+  .navbar-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  /* Individual nav items */
+  .nav-item {
+    margin-right: 20px;
+  }
+  
+  /* Remove margin for the last item */
+  .nav-item:last-child {
+    margin-right: 0;
+  }
+  
+  /* Nav links */
+  .nav-link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  /* Nav link hover effect */
+  .nav-link:hover {
+    color: #ccc;
+  }
+  
+  /* Unordered list inside the navbar */
+  .navbar-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+  }
+  
+  /* Individual nav items */
+  .nav-item {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  /* Nav links */
+  .nav-link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  /* Nav link hover effect */
+  .nav-link:hover {
+    color: #ccc;
+  }
+  
