@@ -88,3 +88,11 @@
     color: #ccc;
   }
   
+  .container{
+    background-color: #ccc;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  main{
+    margin: 10px;
+  }
